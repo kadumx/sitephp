@@ -1,0 +1,46 @@
+*{margin:0px;}
+.container {
+	min-height: 700px;
+	width: 100%;
+	margin: 0 auto;
+}
+.header{
+	height: 200px;
+	width: 100%;
+	background:blue;
+}
+.nav{
+	height: 20px;
+	width: 100%;
+	background: red;
+}
+.content{
+	height: 350px;
+	width: 100%;
+	background: yellow;
+}
+	.content-cases{
+	height: 350px;
+	width: 100%;
+	background: green;
+	}
+	.content-quemsomos{
+	height: 350px;
+	width: 100%;
+	
+	}
+	.content-projetos{
+	height: 350px;
+	width: 100%;
+	background: red;
+	}
+	.content-fale{
+	height: 350px;
+	width: 100%;
+	background: red;
+	}
+.footer{
+	height: 130px;
+	width: 100%;
+	background: black;
+}
